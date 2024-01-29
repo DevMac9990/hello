@@ -8,7 +8,7 @@
     - `git add .`  
     - `git commit -m "SayHello() v0.1.0"`  
     - `git push origin master`  
-6. git tag 为代码包打上标签  
+6. 为代码包打上标签  
     - `git tag -a v0.1.0 -m "release version v0.1.0"`   
 7. 项目代码 push 到远端标签分支  
     - `git push origin v0.1.0`  
