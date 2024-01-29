@@ -2,6 +2,6 @@ package hello
 
 import "fmt"
 
-func SayHello() {
-	fmt.Println("你好，我是Cauchy！")
+func SayHello(name string) {
+	fmt.Printf("你好%s，我是Cauchy！", name)
 }
